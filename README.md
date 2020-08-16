@@ -7,7 +7,7 @@ I am a full stack developer, passionate about coding, most of the time I will be
 - 😊 Willing to contribute to opensource development projects.
 - 💬 Ask me about anything related to the development and provide suggestions on developing the libraries or if you need any help in development.
 - 📫 How to reach me: uttesh@gmail.com.
-- 🌐 Visit my [porfolio website](http://uttesh.com/) for more details.
+
 
 <summary>🤝 <b>To connect with me<b></summary>
 
