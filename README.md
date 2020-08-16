@@ -1,11 +1,11 @@
 ### Hi 👋, I'm Uttesh
-#### Coding Is Infinite Leanring !!!
+#### Coding Is Infinite Learning !!!
 I am a full stack developer, passionate about coding, most of the time I will be going through the new technology trends and tried to develop a POCs, libraries and contribute to the open-source projects.
 
 - 👨🏽‍💻 Currently working on building bots and libraries.
 - 🤝 I'm currently learning on AI/ML analytics and data science.
-- 😊 Willing to contribute in opensource development projects.
-- 💬 Ask me about anything related to the development and provide suggestion on developing the libraries or if you need any help in development.
+- 😊 Willing to contribute to opensource development projects.
+- 💬 Ask me about anything related to the development and provide suggestions on developing the libraries or if you need any help in development.
 - 📫 How to reach me: uttesh@gmail.com.
 - 🌐 Visit my [porfolio website](http://uttesh.com/) for more details.
 
