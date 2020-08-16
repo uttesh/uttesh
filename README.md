@@ -17,7 +17,6 @@ I am a full stack developer, passionate about coding, most of the time I will be
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@uttesh)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://uttesh.com/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/uttesh/)
-
 [![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=blue)](https://github.com/uttesh/uttesh)
 ![Repos Badge](https://badges.pufler.dev/repos/uttesh?style=for-the-badge&color=red)
 </p>
