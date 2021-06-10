@@ -55,3 +55,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  # Latest News
+  ## Vaccination slot finder bot
+  <p> Created asimple vaccination slot finder bot mobile app to notify the user on the availability of the slot.</p>
+  Google play store link <a href="https://play.google.com/store/apps/details?id=com.uttesh.vsbot" target="_blank">Vaccination slot finder bot</a>
+  <div>
+  <img height="100px" width="100px" src="https://play-lh.googleusercontent.com/3q96XwaPhpTmqSdTK2BMSxQGFb8j_ZPgxOAG2olH22e2mcYqQSPMzNnmIKGWJZf5FDwR=w720-h310-rw"/>
+  <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/HErP0jI6QqeQORn9a6IfKFpJzLtS0tCet6Krm92RFYESmsgDT8UuZNbQO0Y1cvmOoBc=w1536-h722-rw"/>
+  <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/HErP0jI6QqeQORn9a6IfKFpJzLtS0tCet6Krm92RFYESmsgDT8UuZNbQO0Y1cvmOoBc=w1536-h722-rw"/>
+  <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/HErP0jI6QqeQORn9a6IfKFpJzLtS0tCet6Krm92RFYESmsgDT8UuZNbQO0Y1cvmOoBc=w1536-h722-rw"/>
+  <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/qdjSXSCqzcPI31nL_Fyzlgp-1P31robO3dKBmegP6YRUTvWqZE--GUl3mA60_pB5pm8=w1536-h722-rw"/>
+    
+  </div>
+  
