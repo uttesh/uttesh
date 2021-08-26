@@ -56,6 +56,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   # Latest News
+  ## Vaccine Vs Virus Game
+  <p> Created a mobile game "Vaccine Vs Virus", where user need to vaccinate the people before virus spreads</p>
+  Google play store link <a href="https://play.google.com/store/apps/details?id=com.uttesh.vaccine_vs_virus" target="_blank">Vaccine Vs Virus</a>
+  <div>
+  <img height="100px" width="100px" src="https://play-lh.googleusercontent.com/caTymNNrOyhE_GYFJ0aEnb-gIVD-QiqKQkhwHrFU9Ij7XFrggyyjUE-0W8PNDOrN5KDg=s180-rw"/>
+  <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/H7M6DYvQE7ms-TIZ_qcF0VFFmI8mDdgopL2wti7tSX9BSQyJVw5U3fpqahUtBheMv2k=w720-h310-rw"/>
+  <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/hrdmQHNmqm2xXrVQJSxg9NS9ZdW7TZoU5vR3aV1bn_fTeUUFSrepm1Jyhi3I1bAY38xG=w720-h310-rw"/>
+  <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/gFjyH-1ugUCgnzQBk7Zlh0DdTzGhh43lFBR2G4bGYiKukZVlu0Eg4l-1W6C6JlKx_Q=w720-h310-rw"/>
+  <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/KabQjB4o6XxiMZGaxuMZUXmg5VBM8shIepdG9fpamNueVt9DHd-WALxhOQWKUVeDtx0=w720-h310-rw"/>
+  </div>
+  
   ## Vaccination slot finder bot
   <p> Created asimple vaccination slot finder bot mobile app to notify the user on the availability of the slot.</p>
   Google play store link <a href="https://play.google.com/store/apps/details?id=com.uttesh.vsbot" target="_blank">Vaccination slot finder bot</a>
@@ -65,6 +76,5 @@ Here are some ideas to get you started:
   <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/HErP0jI6QqeQORn9a6IfKFpJzLtS0tCet6Krm92RFYESmsgDT8UuZNbQO0Y1cvmOoBc=w1536-h722-rw"/>
   <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/HErP0jI6QqeQORn9a6IfKFpJzLtS0tCet6Krm92RFYESmsgDT8UuZNbQO0Y1cvmOoBc=w1536-h722-rw"/>
   <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/qdjSXSCqzcPI31nL_Fyzlgp-1P31robO3dKBmegP6YRUTvWqZE--GUl3mA60_pB5pm8=w1536-h722-rw"/>
-    
   </div>
   
