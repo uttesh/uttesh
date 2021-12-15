@@ -1,12 +1,12 @@
 ### Hi 👋, I'm Uttesh
 #### Coding Is Infinite Learning !!!
-I am a full stack developer, passionate about coding, most of the time I will be going through the new technology trends and tried to develop a POCs, libraries and contribute to the open-source projects.
+I am a full-stack developer, passionate about coding, most of the time I will be going through the new technology trends and trying to develop POCs, libraries and contribute to the open-source projects.
 
 - 👨🏽‍💻 Currently working on building bots and libraries.
-- 😊 Working on IOT/Raspberry Pi POC and products
-- 🤝 Learning on AI/ML analytics and data science.
-- 😊 Willing to contribute to opensource development projects.
-- 💬 Ask me about anything related to the development and provide suggestions on developing the libraries or if you need any help in development.
+- 😊 Working on IoT/Raspberry Pi POC and products
+- 🤝 Learning about AI/ML analytics and data science.
+- 😊 Willing to contribute to open-source development projects.
+- 💬 I'm happy to help on development, resolving issues and providing suggestions.
 - 📫 How to reach me: uttesh@gmail.com.
 
 
