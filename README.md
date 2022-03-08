@@ -1,6 +1,7 @@
-### Hi 👋, I'm Uttesh
-#### Coding Is Infinite Learning !!!
-I am a full-stack developer, passionate about coding, most of the time I will be going through the new technology trends and trying to develop POCs, libraries and contribute to the open-source projects.
+<h1 align="center"> Hi 👋, I'm Uttesh</h1>
+
+<h2 align="center"> Coding Is Infinite Learning !!!</h2>
+<h4 align="center">I am a full-stack developer, passionate about coding, most of the time I will be going through the new technology trends and trying to develop POCs, libraries and contribute to the open-source projects.</h4>
 
 - 👨🏽‍💻 Currently working on building bots and libraries.
 - 😊 Working on IoT/Raspberry Pi POC and products
