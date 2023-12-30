@@ -57,6 +57,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   # Latest News
+  
+  ## FirstSpell App (https://www.firstspell.in/)
+  <p> The First Spell app has a flash card-based UI design, allowing children to focus on the learning material without being distracted by unnecessary elements. The app covers topics suitable for pre-KG/KG students between 3-6 age, and we will continue to add high-quality content periodically to keep the app engaging and up-to-date</p>
+  Google play store link <a href="https://play.google.com/store/apps/details?id=in.first.spell" target="_blank">FirstSpell</a>
+  <div>
+  <img height="100px" width="100px" src="https://www.firstspell.in/assets/img/loading.gif"/>
+  <img height="100px" width="100px"  src="https://play-lh.googleusercontent.com/0ktJjQFg21mXpNCmlwpw36kk5NroDBFd4Wab5lTzyynJ6GZsXiFhnQOGldzDuAF5upU=w526-h296-rw"/>
+  <img height="100px" width="100px"   src="https://play-lh.googleusercontent.com/ISG77hE-_XD8UZCgeTx_S0fZr3NtJWmrDWSCaXylUanmfxpbI3zfG-2L4bm-HrQHMak=w526-h296-rw" />
+  </div>
+  
   ## Vaccine Vs Virus Game
   <p> Created a mobile game "Vaccine Vs Virus", where user need to vaccinate the people before virus spreads</p>
   Google play store link <a href="https://play.google.com/store/apps/details?id=com.uttesh.vaccine_vs_virus" target="_blank">Vaccine Vs Virus</a>
